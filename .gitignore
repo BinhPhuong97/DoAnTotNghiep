@@ -1,0 +1,8 @@
+__pycache__/
+.opencode/
+venv/
+.env
+data/
+output_preprocess1/
+output_preprocess2/
+output_preprocess3/
